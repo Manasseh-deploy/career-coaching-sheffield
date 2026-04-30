@@ -164,8 +164,8 @@ This project demonstrates my ability to:
 
 ## 📬 Contact
 
-* GitHub: [Your GitHub profile]
-* Email: [tbwankwot@mail.co.uk]
+* GitHub: https://github.com/Manasseh-deploy
+* Email: tbwankwot@mail.co.uk
 
 
 ---
